@@ -3,6 +3,8 @@
   flex-direction: column;
 }
 .level1 {
-  background-image: url("level1-1.png") no-repeat center fixed;
+  background-image: url("level1-1.png");
   background-size: cover;
+  
+
 }
