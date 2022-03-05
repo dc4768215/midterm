@@ -9,6 +9,37 @@ body, html {
 .level1 {
   background-image: url("level1-1.png");
   background-size: cover;
+  min-height: 65vh;
+  background-position: center center;
+  position: relative;
+}
+.level2 {
+  background-image: url("lvl2.png");
+  background-size: cover;
   min-height: 100vh;
   background-position: center center;
+  position: relative;
+}
+.level3 {
+
+}
+.level4 {
+
+}
+.level5 {
+
+}
+.level6 {
+
+}
+.level7 {
+
+}
+.level8 {
+
+}
+#img1 {
+  position: absolute;
+  top: 56%;
+  left: 91%;
 }
