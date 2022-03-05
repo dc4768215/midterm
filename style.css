@@ -13,8 +13,18 @@ body, html {
   background-position: center center;
   position: relative;
 }
+#img1 {
+  position: absolute;
+  top: 20%;
+  left: 91%;
+}
+#img2 {
+  position: absolute;
+  top: 20%
+
+}
 .level2 {
-  background-image: url("lvl2.png");
+  background-image: url("lvl2_1.jpeg");
   background-size: cover;
   min-height: 100vh;
   background-position: center center;
@@ -37,9 +47,4 @@ body, html {
 }
 .level8 {
 
-}
-#img1 {
-  position: absolute;
-  top: 56%;
-  left: 91%;
 }
