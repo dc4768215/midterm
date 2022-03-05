@@ -7,9 +7,9 @@ body, html {
   flex-direction: column;
 }
 .level1 {
-  background-image: url("level1-1.png");
+  background-image: url("lvl1.png");
   background-size: cover;
-  min-height: 65vh;
+  min-height: 70vh;
   background-position: center center;
   position: relative;
 }
@@ -20,15 +20,11 @@ body, html {
 }
 #img2 {
   position: absolute;
-  top: 20%
+  top: 90%
 
 }
 .level2 {
-  background-image: url("lvl2_1.jpeg");
-  background-size: cover;
-  min-height: 100vh;
-  background-position: center center;
-  position: relative;
+
 }
 .level3 {
 
@@ -43,8 +39,16 @@ body, html {
 
 }
 .level7 {
-
+  background-image: url("lvl1.gif");
+  background-size: cover;
+  min-height: 50vh;
+  background-position: center center;
+  position: relative;
 }
 .level8 {
-
+  background-image: url("black-eye.gif");
+  background-size: cover;
+  min-height: 60vh;
+  background-position: center center;
+  position: relative;
 }
