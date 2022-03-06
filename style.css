@@ -15,20 +15,25 @@ body, html {
 }
 #img1 {
   position: absolute;
-  top: 20%;
+  top: 55%;
   left: 91%;
+}
+#img1_1 {
+  position: absolute;
+  top: 45%;
+  left: 12%;
+}
+.level2 {
+  background-image: url("gears.gif");
+  background-size: cover;
+  min-height: 60vh;
+  background-position: center center;
+  position: relative;
 }
 #img2 {
   position: absolute;
   top: 50%;
   left: 90%;
-}
-.level2 {
-  background-image: url("lvl2_fire.gif");
-  background-size: cover;
-  min-height: 60vh;
-  background-position: center center;
-  position: relative;
 }
 .level3 {
   background-image: url("minecraftlvl.png");
