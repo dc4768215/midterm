@@ -54,6 +54,16 @@ body, html {
   top: 80%;
   left: 60%;
 }
+#img0_8 {
+  position: absolute;
+  top: 50%;
+  left: 85.5%;
+}
+#img0_9 {
+  position: absolute;
+  top: 50%;
+  left: 5%;
+}
 /* Level 2: Lust*/
 .level2 {
   background-image: url("limbo.jpeg");
