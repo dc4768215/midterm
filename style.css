@@ -7,11 +7,16 @@ body, html {
   flex-direction: column;
 }
 .level1 {
-  background-image: url("entrance.jpeg");
+  background-image: url("newEntrance.png");
   background-size: cover;
-  min-height: 200vh;
+  min-height: 80vh;
   background-position: center center;
   position: relative;
+}
+#img0 {
+  position: absolute;
+  top: 16%;
+  left: 25%;
 }
 #img1 {
   position: absolute;
@@ -24,9 +29,9 @@ body, html {
   left: 12%;
 }
 .level2 {
-  background-image: url("gears.gif");
+  background-image: url("limbo.jpeg");
   background-size: cover;
-  min-height: 60vh;
+  min-height: 80vh;
   background-position: center center;
   position: relative;
 }
