@@ -41,44 +41,58 @@ body, html {
   left: 90%;
 }
 .level3 {
-  background-image: url("");
-  background-size: cover;
-  min-height: 60vh;
-  background-position: center center;
-  position: relative;
-}
-.level4 {
-  background-image: url("minecraftlvl.png");
+  background-image: url("lust.png");
   background-size: cover;
   min-height: 80vh;
   background-position: center center;
   position: relative;
 }
-.level5 {
-  background-image: url("lvl2.png");
+.level4 {
+  background-image: url("gluttony.png");
   background-size: cover;
-  min-height: 70vh;
+  min-height: 90vh;
+  background-position: center center;
+  position: relative;
+}
+.level5 {
+  background-image: url("greed.jpeg");
+  background-size: cover;
+  min-height: 80vh;
   background-position: center center;
   position: relative;
 }
 .level6 {
-  background-image: url("lvl2_1.jpeg");
+  background-image: url("anger.jpeg");
   background-size: cover;
-  min-height: 60vh;
+  min-height: 80vh;
   background-position: center center;
   position: relative;
 }
 .level7 {
-  background-image: url("lvl1.gif");
+  background-image: url("heresy.jpeg");
   background-size: cover;
-  min-height: 50vh;
+  min-height: 80vh;
   background-position: center center;
   position: relative;
 }
 .level8 {
-  background-image: url("black-eye.gif");
+  background-image: url("violence.jpeg");
   background-size: cover;
-  min-height: 60vh;
+  min-height: 80vh;
+  background-position: center center;
+  position: relative;
+}
+.level9 {
+  background-image: url("fraud.jpeg");
+  background-size: cover;
+  min-height: 80vh;
+  background-position: center center;
+  position: relative;
+}
+.level10 {
+  background-image: url("treachery.jpeg");
+  background-size: cover;
+  min-height: 80vh;
   background-position: center center;
   position: relative;
 }
