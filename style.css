@@ -7,9 +7,9 @@ body, html {
   flex-direction: column;
 }
 .level1 {
-  background-image: url("trueleevel1.png");
+  background-image: url("entrance.jpeg");
   background-size: cover;
-  min-height: 65vh;
+  min-height: 200vh;
   background-position: center center;
   position: relative;
 }
@@ -36,28 +36,32 @@ body, html {
   left: 90%;
 }
 .level3 {
+  background-image: url("");
+  background-size: cover;
+  min-height: 60vh;
+  background-position: center center;
+  position: relative;
+}
+.level4 {
   background-image: url("minecraftlvl.png");
   background-size: cover;
   min-height: 80vh;
   background-position: center center;
   position: relative;
 }
-.level4 {
+.level5 {
   background-image: url("lvl2.png");
   background-size: cover;
   min-height: 70vh;
   background-position: center center;
   position: relative;
 }
-.level5 {
+.level6 {
   background-image: url("lvl2_1.jpeg");
   background-size: cover;
   min-height: 60vh;
   background-position: center center;
   position: relative;
-}
-.level6 {
-
 }
 .level7 {
   background-image: url("lvl1.gif");
