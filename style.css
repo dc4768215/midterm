@@ -74,18 +74,18 @@ body, html {
 }
 #img1 {
   position: absolute;
-  top: 55%;
-  left: 91%;
+  top: 10%;
+  left: 47%;
 }
 #img1_1 {
   position: absolute;
-  top: 45%;
-  left: 12%;
+  top: 5%;
+  left: 92%;
 }
 #img2 {
   position: absolute;
-  top: 50%;
-  left: 90%;
+  top: 30%;
+  left: 80%;
 }
 .level3 {
   background-image: url("lust.png");
