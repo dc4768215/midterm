@@ -64,6 +64,11 @@ body, html {
   top: 50%;
   left: 5%;
 }
+#img0_10 {
+  position: absolute;
+  top: 20%;
+  left: 60%;
+}
 /* Level 2: Lust*/
 .level2 {
   background-image: url("limbo.jpeg");
@@ -86,6 +91,32 @@ body, html {
   position: absolute;
   top: 30%;
   left: 80%;
+}
+#img2_1 {
+  position: absolute;
+  top: 30%;
+  left: 70%;
+}
+#img2_2 {
+  position: absolute;
+  top: 8%;
+  left: 48%;
+}
+#img2_3 {
+  position: absolute;
+  top: 5%;
+  left: 5%;
+  border: 10px solid black;
+}
+#img2_4 {
+  position: absolute;
+  top: 30%;
+  left: 14%;
+}
+#img2_5 {
+  position: absolute;
+  top: 5%;
+  left: 78%;
 }
 .level3 {
   background-image: url("lust.png");
