@@ -241,6 +241,15 @@ body, html {
   background-position: center center;
   position: relative;
 }
+#img5 {
+  position: absolute;
+  top: 50%;
+  left: 60%;
+}
+#img5_1 {
+  position: absolute;
+  top: 67%;
+}
 .level6 {
   background-image: url("anger.jpeg");
   background-size: cover;
