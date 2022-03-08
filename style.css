@@ -250,6 +250,26 @@ body, html {
   position: absolute;
   top: 67%;
 }
+#img5_2 {
+  position: absolute;
+  top: 30%;
+  left: 84%;
+}
+#img5_3 {
+  position: absolute;
+  top: 5%;
+  left: 19%;
+}
+#img5_4 {
+  position: absolute;
+  top: 40%;
+  left:20%;
+}
+#img5_5 {
+  position: absolute;
+  top: 50%;
+  left: 44%;
+}
 .level6 {
   background-image: url("anger.jpeg");
   background-size: cover;
