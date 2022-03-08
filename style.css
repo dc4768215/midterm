@@ -128,7 +128,7 @@ body, html {
 }
 #img2_7 {
   position: absolute;
-  top: 80%;
+  top: 81%;
 }
 .level3 {
   background-image: url("lust.png");
@@ -365,6 +365,19 @@ body, html {
   min-height: 80vh;
   background-position: center center;
   position: relative;
+}
+#img9 {
+  position: absolute;
+  top:55%;
+}
+#img9_1 {
+  position: absolute;
+  top: 35%;
+  left: 10%;
+}
+#img9_2 {
+  position: absolute;
+  left: 80%;
 }
 .level10 {
   background-image: url("treachery.jpeg");
