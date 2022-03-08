@@ -339,6 +339,26 @@ body, html {
   background-position: center center;
   position: relative;
 }
+#img8 {
+  position: absolute;
+  top: 55%;
+  left: 45%;
+}
+#img8_1 {
+  position: absolute;
+  top: 60%;
+  left: 87%;
+}
+#img8_2 {
+  position: absolute;
+  top: 80%;
+  left:80%;
+}
+#img8_3 {
+  position: absolute;
+  top: 20%;
+  left: 70%;
+}
 .level9 {
   background-image: url("fraud.jpeg");
   background-size: cover;
