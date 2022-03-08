@@ -289,7 +289,7 @@ body, html {
 #img6_2 {
   position: absolute;
   top: 50%;
-  left: 80%;
+  left: 60%;
 }
 #img6_3 {
   position: absolute;
@@ -307,6 +307,30 @@ body, html {
   position: absolute;
   top: 63%;
   left: 75%;
+}
+#img7_1 {
+  position: absolute;
+  top: 44%;
+}
+#img7_2 {
+  position: absolute;
+  top: 10%;
+  left: 80%;
+}
+#img7_3 {
+  position: absolute;
+  top:60%;
+  left: 40%;
+}
+#img7_4 {
+  position: absolute;
+  top: 50%;
+  left: 13%;
+}
+#img7_5 {
+  position: absolute;
+  top: 22%;
+  left: 57%;
 }
 .level8 {
   background-image: url("violence.jpeg");
