@@ -1,6 +1,9 @@
 body, html {
   margin: 0;
   padding: 0;
+  background-color: black;
+  padding-left: 20px;
+  padding-right: 20px;
 }
 .mainContainer {
   display: flex;
@@ -205,6 +208,31 @@ body, html {
   position: absolute;
   top: 40%;
   left:80%;
+}
+#img4_5 {
+  position: absolute;
+  top: 80%;
+  left: 25%;
+}
+#img4_6 {
+  position: absolute;
+  top: 5%;
+  left: 5%;
+}
+#img4_7 {
+  position: absolute;
+  top: 60%;
+  left:35%;
+}
+#img4_8 {
+  position: absolute;
+  top:80%;
+  left: 50%;
+}
+#img4_9 {
+  position: absolute;
+  top: 70%;
+  left: 65%;
 }
 .level5 {
   background-image: url("greed.jpeg");
