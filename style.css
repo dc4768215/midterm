@@ -156,12 +156,55 @@ body, html {
 #img3_4 {
   position: absolute;
 }
+#img3_5 {
+  position: absolute;
+  top: 30%;
+  left: 85%;
+}
+#img3_6 {
+  position: absolute;
+  left: 17%;
+}
+#img3_7 {
+  position: absolute;
+  top: 50%;
+  left: 20%;
+}
+#img3_8 {
+  position: absolute;
+  top: 60%;
+  left: 32%;
+}
 .level4 {
   background-image: url("gluttony.png");
   background-size: cover;
   min-height: 90vh;
   background-position: center center;
   position: relative;
+}
+#img4 {
+  position: absolute;
+  top: 25%;
+  left: 75%;
+}
+#img4_1 {
+  position: absolute;
+  top: 60%;
+  left: 50%;
+}
+#img4_2 {
+  position: absolute;
+  top: 57%;
+  left: 60%;
+}
+#img4_3 {
+  position: absolute;
+  top: 40%;
+}
+#img4_4 {
+  position: absolute;
+  top: 40%;
+  left:80%;
 }
 .level5 {
   background-image: url("greed.jpeg");
