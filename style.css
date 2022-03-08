@@ -277,6 +277,25 @@ body, html {
   background-position: center center;
   position: relative;
 }
+#img6 {
+  position: absolute;
+  top: 13%;
+  left: 10%;
+}
+#img6_1 {
+  position: absolute;
+  left: 80%;
+}
+#img6_2 {
+  position: absolute;
+  top: 50%;
+  left: 80%;
+}
+#img6_3 {
+  position: absolute;
+  top: 70%;
+  left: 5%;
+}
 .level7 {
   background-image: url("heresy.jpeg");
   background-size: cover;
