@@ -17,6 +17,10 @@ body, html {
   background-position: center center;
   position: relative;
 }
+#img {
+  position: absolute;
+  left: 75%;
+}
 #img0 {
   position: absolute;
   top: 16%;
