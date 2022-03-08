@@ -118,12 +118,43 @@ body, html {
   top: 5%;
   left: 78%;
 }
+#img2_6 {
+  position: absolute;
+  top: 65%;
+  left: 38%;
+}
+#img2_7 {
+  position: absolute;
+  top: 80%;
+}
 .level3 {
   background-image: url("lust.png");
   background-size: cover;
   min-height: 80vh;
   background-position: center center;
   position: relative;
+}
+#img3 {
+  position: absolute;
+  top: 69%;
+}
+#img3_1 {
+  position: absolute;
+  top: 72%;
+  left: 70%;
+}
+#img3_2 {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+}
+#img3_3 {
+  position: absolute;
+  top: 8%;
+  left: 49%;
+}
+#img3_4 {
+  position: absolute;
 }
 .level4 {
   background-image: url("gluttony.png");
