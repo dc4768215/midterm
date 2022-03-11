@@ -9,13 +9,12 @@ body, html {
   display: flex;
   flex-direction: column;
 }
-/* Level 1: Entrance*/
 .level1 {
-  background-image: url("newEntrance.png");
-  background-size: cover;
-  min-height: 80vh;
-  background-position: center center;
-  position: relative;
+    background-image: url(newEntrance.png);
+    background-size: cover;
+    min-height: 80vh;
+    background-position: center center;
+    position: relative;
 }
 #img {
   position: absolute;
